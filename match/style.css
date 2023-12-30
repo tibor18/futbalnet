@@ -1,0 +1,1485 @@
+.match-detail {
+  background-color: #303030;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.match-detail .div {
+  background-color: #303030;
+  overflow: hidden;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.match-detail .buttons {
+  position: absolute;
+  width: 69px;
+  height: 16px;
+  top: 14px;
+  left: 26px;
+}
+
+.match-detail .ellipse {
+  left: 0;
+  background-color: #fc5753;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  border-radius: 8px;
+}
+
+.match-detail .ellipse-2 {
+  left: 27px;
+  background-color: #fdbc40;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  border-radius: 8px;
+}
+
+.match-detail .ellipse-3 {
+  left: 53px;
+  background-color: #33c748;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  border-radius: 8px;
+}
+
+.match-detail .overlap {
+  position: absolute;
+  width: 1402px;
+  height: 960px;
+  top: 48px;
+  left: 22px;
+}
+
+.match-detail .news {
+  position: absolute;
+  width: 360px;
+  height: 948px;
+  top: 0;
+  left: 1042px;
+}
+
+.match-detail .overlap-group {
+  position: relative;
+  width: 413px;
+  height: 1009px;
+  top: -33px;
+  left: -37px;
+  background-image: url(./img/rectangle-10.svg);
+  background-size: 100% 100%;
+}
+
+.match-detail .group {
+  position: absolute;
+  width: 329px;
+  height: 30px;
+  top: 63px;
+  left: 54px;
+}
+
+.match-detail .icons-chevron-right {
+  width: 30px;
+  height: 30px;
+  left: 297px;
+  position: absolute;
+  top: 0;
+}
+
+.match-detail .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .group-2 {
+  position: absolute;
+  width: 329px;
+  height: 276px;
+  top: 120px;
+  left: 54px;
+}
+
+.match-detail .rectangle {
+  position: absolute;
+  width: 327px;
+  height: 200px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.match-detail .p {
+  position: absolute;
+  width: 296px;
+  top: 210px;
+  left: 0;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.match-detail .icons-bookmark {
+  top: 210px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 303px;
+}
+
+.match-detail .overlap-2 {
+  position: absolute;
+  width: 331px;
+  height: 201px;
+  top: 426px;
+  left: 54px;
+}
+
+.match-detail .group-3 {
+  position: absolute;
+  width: 327px;
+  height: 80px;
+  top: 5px;
+  left: 0;
+}
+
+.match-detail .img {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 6px;
+  left: 303px;
+}
+
+.match-detail .rectangle-2 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.match-detail .group-4 {
+  position: absolute;
+  width: 331px;
+  height: 201px;
+  top: 0;
+  left: 0;
+}
+
+.match-detail .text-wrapper-2 {
+  position: absolute;
+  width: 197px;
+  top: 113px;
+  left: 98px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.match-detail .text-wrapper-3 {
+  position: absolute;
+  width: 197px;
+  top: 0;
+  left: 95px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.match-detail .icons-bookmark-2 {
+  top: 121px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 303px;
+}
+
+.match-detail .rectangle-3 {
+  top: 115px;
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 0;
+  object-fit: cover;
+}
+
+.match-detail .group-5 {
+  position: absolute;
+  width: 329px;
+  height: 88px;
+  top: 651px;
+  left: 54px;
+}
+
+.match-detail .text-wrapper-4 {
+  position: absolute;
+  width: 203px;
+  top: 0;
+  left: 95px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.match-detail .group-6 {
+  position: absolute;
+  width: 329px;
+  height: 110px;
+  top: 759px;
+  left: 54px;
+}
+
+.match-detail .icons-bookmark-3 {
+  top: 8px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 303px;
+}
+
+.match-detail .rectangle-4 {
+  top: 2px;
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 0;
+  object-fit: cover;
+}
+
+.match-detail .group-7 {
+  position: absolute;
+  width: 329px;
+  height: 96px;
+  top: 871px;
+  left: 54px;
+}
+
+.match-detail .text-wrapper-5 {
+  position: absolute;
+  width: 197px;
+  top: 6px;
+  left: 95px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.match-detail .overlap-wrapper {
+  position: absolute;
+  width: 317px;
+  height: 948px;
+  top: 12px;
+  left: 0;
+}
+
+.match-detail .overlap-3 {
+  position: relative;
+  height: 948px;
+}
+
+.match-detail .navigation {
+  position: absolute;
+  width: 317px;
+  height: 948px;
+  top: 0;
+  left: 0;
+}
+
+.match-detail .overlap-4 {
+  position: relative;
+  width: 337px;
+  height: 997px;
+  top: -33px;
+  left: -22px;
+  background-image: url(./img/rectangle-1-1.svg);
+  background-size: 100% 100%;
+}
+
+.match-detail .icons-log-out-wrapper {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 926px;
+  left: 245px;
+  background-color: #303030;
+  border-radius: 10px;
+}
+
+.match-detail .img-2 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 9px;
+  left: 9px;
+}
+
+.match-detail .overlap-group-wrapper {
+  position: absolute;
+  width: 206px;
+  height: 45px;
+  top: 926px;
+  left: 35px;
+}
+
+.match-detail .overlap-group-2 {
+  position: relative;
+  width: 202px;
+  height: 45px;
+}
+
+.match-detail .rectangle-5 {
+  position: absolute;
+  width: 202px;
+  height: 42px;
+  top: 0;
+  left: 0;
+  background-color: #303030;
+  border-radius: 10px;
+}
+
+.match-detail .rectangle-6 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 4px;
+  left: 4px;
+  background-color: #c3cc5a;
+  border-radius: 10px;
+}
+
+.match-detail .tibi-jacki {
+  position: absolute;
+  top: 3px;
+  left: 49px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #c3cc5a;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .text-wrapper-6 {
+  position: absolute;
+  top: 24px;
+  left: 49px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .icons-user {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 17px;
+  left: 8px;
+}
+
+.match-detail .line {
+  position: absolute;
+  width: 218px;
+  height: 1px;
+  top: 449px;
+  left: 46px;
+  object-fit: cover;
+}
+
+.match-detail .div-wrapper {
+  position: absolute;
+  width: 254px;
+  height: 42px;
+  top: 121px;
+  left: 35px;
+}
+
+.match-detail .overlap-5 {
+  position: relative;
+  width: 252px;
+  height: 42px;
+  background-color: #303030;
+  border-radius: 10px;
+}
+
+.match-detail .text-wrapper-7 {
+  position: absolute;
+  width: 189px;
+  top: 13px;
+  left: 50px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .image-removebg {
+  position: absolute;
+  width: 225px;
+  height: 54px;
+  top: 49px;
+  left: 49px;
+}
+
+.match-detail .group-wrapper {
+  position: absolute;
+  width: 223px;
+  height: 21px;
+  top: 453px;
+  left: 28px;
+}
+
+.match-detail .group-8 {
+  position: relative;
+  height: 21px;
+}
+
+.match-detail .group-9 {
+  position: absolute;
+  width: 185px;
+  height: 21px;
+  top: 0;
+  left: 40px;
+}
+
+.match-detail .text-wrapper-8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .icons-chevron-right-2 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 1px;
+  left: 163px;
+}
+
+.match-detail .img-3 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 0;
+  left: 0;
+}
+
+.match-detail .group-10 {
+  position: absolute;
+  width: 222px;
+  height: 20px;
+  top: 547px;
+  left: 28px;
+}
+
+.match-detail .text-wrapper-9 {
+  position: absolute;
+  top: 0;
+  left: 39px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .icons-chevron-right-3 {
+  width: 20px;
+  height: 20px;
+  left: 202px;
+  position: absolute;
+  top: 0;
+}
+
+.match-detail .group-11 {
+  position: absolute;
+  width: 223px;
+  height: 21px;
+  top: 501px;
+  left: 28px;
+}
+
+.match-detail .group-12 {
+  height: 21px;
+}
+
+.match-detail .overlap-group-3 {
+  position: relative;
+  width: 223px;
+  height: 21px;
+}
+
+.match-detail .group-13 {
+  position: absolute;
+  width: 223px;
+  height: 21px;
+  top: 0;
+  left: 0;
+}
+
+.match-detail .group-14 {
+  position: relative;
+  width: 183px;
+  height: 21px;
+  left: 40px;
+}
+
+.match-detail .group-15 {
+  position: relative;
+  width: 185px;
+  height: 21px;
+}
+
+.match-detail .component {
+  position: absolute;
+  width: 142px;
+  height: 223px;
+  top: 165px;
+  left: 56px;
+}
+
+.match-detail .component-2 {
+  position: relative;
+  height: 223px;
+}
+
+.match-detail .prestupy {
+  position: absolute;
+  width: 117px;
+  height: 24px;
+  top: 190px;
+  left: 24px;
+}
+
+.match-detail .group-16 {
+  position: absolute;
+  width: 80px;
+  height: 24px;
+  top: 0;
+  left: 39px;
+}
+
+.match-detail .text-wrapper-10 {
+  color: #ffffff;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .img-4 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.match-detail .kluby {
+  position: absolute;
+  width: 90px;
+  height: 24px;
+  top: 145px;
+  left: 24px;
+}
+
+.match-detail .text-wrapper-11 {
+  color: #ffffff;
+  position: absolute;
+  top: 0;
+  left: 39px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .zvzy {
+  position: absolute;
+  width: 93px;
+  height: 25px;
+  top: 99px;
+  left: 24px;
+}
+
+.match-detail .text-wrapper-12 {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .image {
+  width: 25px;
+  height: 25px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.match-detail .group-17 {
+  position: absolute;
+  width: 98px;
+  height: 24px;
+  top: 54px;
+  left: 28px;
+}
+
+.match-detail .vector {
+  position: absolute;
+  width: 18px;
+  height: 21px;
+  top: 1px;
+  left: -1px;
+}
+
+.match-detail .text-wrapper-13 {
+  position: absolute;
+  top: 0;
+  left: 35px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .domov {
+  position: absolute;
+  width: 125px;
+  height: 35px;
+  top: 0;
+  left: 0;
+}
+
+.match-detail .group-18 {
+  position: relative;
+  width: 103px;
+  height: 25px;
+  top: 5px;
+  left: 24px;
+}
+
+.match-detail .text-wrapper-14 {
+  color: #c3cc5a;
+  position: absolute;
+  top: 1px;
+  left: 39px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .rectangle-7 {
+  position: absolute;
+  width: 7px;
+  height: 35px;
+  top: 178px;
+  left: 32px;
+  background-color: #c3cc5a;
+  border-radius: 0px 5px 5px 0px;
+}
+
+.match-detail .group-19 {
+  position: absolute;
+  width: 763px;
+  height: 549px;
+  top: 20px;
+  left: 298px;
+}
+
+.match-detail .overlap-6 {
+  position: relative;
+  width: 777px;
+  height: 549px;
+}
+
+.match-detail .score {
+  position: absolute;
+  width: 777px;
+  height: 549px;
+  top: 0;
+  left: 0;
+}
+
+.match-detail .overlap-7 {
+  position: absolute;
+  width: 706px;
+  height: 466px;
+  top: 0;
+  left: 0;
+}
+
+.match-detail .rectangle-8 {
+  position: absolute;
+  width: 696px;
+  height: 299px;
+  top: 167px;
+  left: 8px;
+}
+
+.match-detail .patrik-hro-ovsk {
+  position: absolute;
+  top: 391px;
+  left: 151px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .element-timotej-jambor {
+  position: absolute;
+  top: 217px;
+  left: 383px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .element-timotej-jambor-2 {
+  position: absolute;
+  top: 419px;
+  left: 383px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .element-d-vid-uri {
+  position: absolute;
+  top: 253px;
+  left: 383px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .element-patrik-hro-ovsk {
+  position: absolute;
+  top: 292px;
+  left: 383px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .group-20 {
+  position: absolute;
+  width: 706px;
+  height: 362px;
+  top: 0;
+  left: 0;
+}
+
+.match-detail .overlap-8 {
+  position: relative;
+  width: 704px;
+  height: 362px;
+}
+
+.match-detail .text-wrapper-15 {
+  top: 40px;
+  left: 326px;
+  font-size: 12px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.match-detail .rectangle-9 {
+  position: absolute;
+  width: 696px;
+  height: 35px;
+  top: 0;
+  left: 8px;
+  background-color: #000000;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.match-detail .rectangle-10 {
+  position: absolute;
+  width: 696px;
+  height: 22px;
+  top: 186px;
+  left: 8px;
+  background-color: #000000;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.match-detail .rectangle-11 {
+  position: absolute;
+  width: 696px;
+  height: 22px;
+  top: 340px;
+  left: 0;
+  background-color: #000000;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.match-detail .group-21 {
+  position: absolute;
+  width: 540px;
+  height: 54px;
+  top: 59px;
+  left: 109px;
+}
+
+.match-detail .group-22 {
+  position: relative;
+  width: 546px;
+  height: 54px;
+}
+
+.match-detail .vion-zlat-moravce {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .text-wrapper-16 {
+  width: 50px;
+  top: 15px;
+  left: 215px;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.match-detail .m-k-ilina {
+  position: absolute;
+  top: 18px;
+  left: 307px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .uuid {
+  position: absolute;
+  width: 52px;
+  height: 54px;
+  top: 0;
+  left: 488px;
+  object-fit: cover;
+}
+
+.match-detail .group-23 {
+  position: absolute;
+  width: 599px;
+  height: 348px;
+  top: 10px;
+  left: 91px;
+}
+
+.match-detail .overlap-group-4 {
+  position: absolute;
+  width: 279px;
+  height: 14px;
+  top: 0;
+  left: 0;
+}
+
+.match-detail .text-wrapper-17 {
+  position: absolute;
+  width: 274px;
+  top: 0;
+  left: 0;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.match-detail .text-wrapper-18 {
+  position: absolute;
+  top: 0;
+  left: 226px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .pol-as {
+  position: absolute;
+  top: 180px;
+  left: 223px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .pol-as-2 {
+  position: absolute;
+  top: 334px;
+  left: 226px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .kolo {
+  position: absolute;
+  width: 108px;
+  top: 0;
+  left: 480px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #7f7f7f;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.match-detail .image-2 {
+  width: 21px;
+  height: 21px;
+  top: 419px;
+  left: 337px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.match-detail .overlap-9 {
+  position: absolute;
+  width: 696px;
+  height: 62px;
+  top: 487px;
+  left: 8px;
+  background-image: url(./img/rectangle-27.svg);
+  background-size: 100% 100%;
+}
+
+.match-detail .rozhodca-peter {
+  position: absolute;
+  top: 24px;
+  left: 48px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .text-wrapper-19 {
+  position: absolute;
+  top: 24px;
+  left: 432px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .rectangle-12 {
+  position: absolute;
+  width: 3px;
+  height: 63px;
+  top: 153px;
+  left: 760px;
+  background-color: #000000;
+  border-radius: 50px;
+  border: 0.5px solid;
+  border-color: #7f7f7f;
+}
+
+.match-detail .image-3 {
+  width: 53px;
+  height: 53px;
+  top: 60px;
+  left: 31px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.match-detail .image-4 {
+  width: 26px;
+  height: 21px;
+  top: 7px;
+  left: 52px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.match-detail .image-5 {
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  top: 217px;
+  left: 335px;
+  object-fit: cover;
+}
+
+.match-detail .image-6 {
+  width: 21px;
+  height: 21px;
+  top: 253px;
+  left: 335px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.match-detail .image-7 {
+  width: 17px;
+  height: 23px;
+  top: 310px;
+  left: 635px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.match-detail .image-8 {
+  width: 17px;
+  height: 23px;
+  top: 409px;
+  left: 637px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.match-detail .component-3 {
+  position: absolute;
+  width: 182px;
+  height: 1478px;
+  top: 161px;
+  left: -683px;
+  border-radius: 5px;
+  overflow: hidden;
+  border: 1px dashed;
+  border-color: #9747ff;
+}
+
+.match-detail .property-default {
+  top: -305px;
+  left: 38px;
+  position: absolute;
+  width: 142px;
+  height: 223px;
+}
+
+.match-detail .img-5 {
+  top: 1048px;
+  left: -4342px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.match-detail .image-9 {
+  top: 1048px;
+  left: -4342px;
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+
+.match-detail .vector-2 {
+  top: 1050px;
+  left: -4342px;
+  position: absolute;
+  width: 16px;
+  height: 19px;
+}
+
+.match-detail .rectangle-13 {
+  position: absolute;
+  width: 7px;
+  height: 35px;
+  top: 0;
+  left: 0;
+  background-color: #c3cc5a;
+  border-radius: 0px 5px 5px 0px;
+}
+
+.match-detail .group-24 {
+  position: absolute;
+  width: 103px;
+  height: 25px;
+  top: 5px;
+  left: 24px;
+}
+
+.match-detail .property {
+  top: 263px;
+  left: 20px;
+  position: absolute;
+  width: 142px;
+  height: 223px;
+}
+
+.match-detail .img-6 {
+  top: 480px;
+  left: -4324px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.match-detail .image-10 {
+  top: 480px;
+  left: -4324px;
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+
+.match-detail .group-25 {
+  position: absolute;
+  width: 96px;
+  height: 24px;
+  top: 54px;
+  left: 28px;
+}
+
+.match-detail .vector-3 {
+  top: 482px;
+  left: -4324px;
+  position: absolute;
+  width: 16px;
+  height: 19px;
+}
+
+.match-detail .text-wrapper-20 {
+  font-weight: 400;
+  color: #c3cc5a;
+  position: absolute;
+  top: 0;
+  left: 35px;
+  font-family: "Sofia Sans", Helvetica;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .text-wrapper-21 {
+  color: #ffffff;
+  position: absolute;
+  top: 1px;
+  left: 39px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .property-variant {
+  top: 749px;
+  left: 20px;
+  position: absolute;
+  width: 142px;
+  height: 223px;
+}
+
+.match-detail .img-7 {
+  top: -6px;
+  left: -4324px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.match-detail .text-wrapper-22 {
+  color: #c3cc5a;
+  position: absolute;
+  top: 0;
+  left: 39px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .image-11 {
+  top: -6px;
+  left: -4324px;
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+
+.match-detail .vector-4 {
+  top: -4px;
+  left: -4324px;
+  position: absolute;
+  width: 16px;
+  height: 19px;
+}
+
+.match-detail .property-2 {
+  top: 992px;
+  left: 20px;
+  position: absolute;
+  width: 142px;
+  height: 223px;
+}
+
+.match-detail .text-wrapper-23 {
+  color: #c3cc5a;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .img-8 {
+  top: -249px;
+  left: -4324px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.match-detail .image-12 {
+  top: -249px;
+  left: -4324px;
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+
+.match-detail .vector-5 {
+  top: -247px;
+  left: -4324px;
+  position: absolute;
+  width: 16px;
+  height: 19px;
+}
+
+.match-detail .group-26 {
+  position: absolute;
+  width: 335px;
+  height: 334px;
+  top: 170px;
+  left: 1890px;
+  border-radius: 5px;
+  overflow: hidden;
+  border: 1px dashed;
+  border-color: #9747ff;
+}
+
+.match-detail .overlap-10 {
+  position: relative;
+  width: 285px;
+  height: 147px;
+  top: 20px;
+  left: 20px;
+}
+
+.match-detail .property-default-2 {
+  position: absolute;
+  width: 275px;
+  height: 137px;
+  top: 0;
+  left: 0;
+}
+
+.match-detail .overlap-group-5 {
+  position: relative;
+  height: 119px;
+  background-color: #2f2d2d;
+  border-radius: 20px;
+}
+
+.match-detail .group-27 {
+  position: absolute;
+  width: 219px;
+  height: 34px;
+  top: 21px;
+  left: 26px;
+}
+
+.match-detail .group-28 {
+  position: relative;
+  height: 34px;
+  background-color: #2f2d2d;
+  border-radius: 25px;
+}
+
+.match-detail .text-wrapper-24 {
+  position: absolute;
+  width: 172px;
+  top: 6px;
+  left: 39px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .group-29 {
+  position: absolute;
+  width: 212px;
+  height: 36px;
+  top: 55px;
+  left: 26px;
+}
+
+.match-detail .FC-ko-ice-wrapper {
+  position: relative;
+  height: 36px;
+  background-color: #2f2d2d;
+  border-radius: 25px;
+}
+
+.match-detail .FC-ko-ice {
+  position: absolute;
+  width: 166px;
+  top: 7px;
+  left: 38px;
+  font-family: "Sofia Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.match-detail .property-3 {
+  position: absolute;
+  width: 275px;
+  height: 137px;
+  top: 10px;
+  left: 10px;
+}
